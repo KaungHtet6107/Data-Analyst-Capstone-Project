@@ -1,0 +1,7 @@
+# Mac system files
+.DS_Store
+
+# Large generated CSV files
+Lab25/survey_data_updated 5.csv
+Lab12/survey-data-eda-analyzed.csv
+Lab13/survey-data-cleaned-eda.csv
